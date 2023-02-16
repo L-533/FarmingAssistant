@@ -1,5 +1,4 @@
-AWAR 
-PAGINA PARA EL REGISTRO DE HISTORIAS CLINICAS DE MASCOTAS
+Farming Assistant 
 
 ESTADO: Beta
 
@@ -15,11 +14,10 @@ Prerequisitos:
 
     - Tener las extensiones de React para bootstrap e iconos de bootstrap.
 
-    - npm install @prisma/client
 
 Run:
 
-En el directorio de app-vet ejecutar
+En el directorio de app-FA ejecutar
 
     - npm start
 
